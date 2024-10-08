@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/dora-commits/dora-commits/blob/main/image/Software.gif" align="center" height="" width="600" />
+<img src="https://github.com/dora-commits/dora-commits/blob/main/image/Software.gif" align="center" height="" width="300" />
 </div>  
 
 - 👋 Hi, I’m @dora-commits
