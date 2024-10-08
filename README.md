@@ -1,8 +1,10 @@
 <div align="center">
 <img src="https://github.com/dora-commits/dora-commits/blob/main/image/Software.gif" align="center" height="" width="600" />
 </div>  
+
 - 👋 Hi, I’m @dora-commits
 - 👀 I’m interested in AI/ML and Software development.
+  
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="Python" height="50" /></a>  
